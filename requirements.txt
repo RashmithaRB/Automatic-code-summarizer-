@@ -6,4 +6,4 @@ accelerate
 rouge_score
 gradio
 sentencepiece
-# -e .
+-e .
