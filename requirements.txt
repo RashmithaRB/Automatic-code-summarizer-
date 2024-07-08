@@ -1,3 +1,9 @@
 transformers
 datasets
--e .
+torch
+evaluate 
+accelerate
+rouge_score
+gradio
+sentencepiece
+# -e .
